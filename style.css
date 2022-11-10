@@ -8,7 +8,7 @@ html {
 
 body {
     min-height: 100%;
-    background-image: url("/images/todopencil.jpg");
+    background-image: url("images/todopencil.jpg");
     margin: 0;
     padding: 0;
 }
